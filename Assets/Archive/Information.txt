@@ -1,0 +1,8 @@
+Tasks:
+https://www.c-sharpcorner.com/article/async-and-await-in-c-sharp/
+
+AMVCC:
+https://www.toptal.com/unity-unity3d/unity-with-mvc-how-to-level-up-your-game-development
+
+Fitting the screen:
+https://forum.unity.com/threads/fit-game-to-all-resolutions.523889/
